@@ -33,3 +33,4 @@ Python version: 3.5.2
  - *data*: Directory which contains the time series of Apple, Intel and Qualcomm. These series were obtained from firstratedata.com
  - *model_checkpoints*: Directory with the saved models
  - *runs*: Directory with the Tensorboard's executions
+ - *tfm.pdf*: Documentation of the project
